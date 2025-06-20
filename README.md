@@ -88,6 +88,43 @@ Always learning, exploring, shaping ideas into experiences
           *      .        .      *        . 
 </pre>
 
+<pre align="center">
+      .        *         .      .         *        .    
+               .     🌿        *    .    ✨     .        
+           .         ___    ___    ___        .    
+                🪐  ( o )  ( o )  ( o )  🪐          
+                    / | \  / | \  / | \            
+                  /__|__\/__|__\/__|__\          
+              Science    Code     Art            
+      *        .        🌱        .      *       
+               ✦          .        ✨         
+</pre>
+
+<pre align="center">
+                *          .         ✨          .          
+    ✶    ✧         .      ( o )      .       ✦        ✨   
+             .        *    / | \    *      .      ✨        
+    .       .      *     * /___\ *       .    ✶      .     
+          (      Science   •   Code   •   Art     )         
+    ✧          *         ✨         *        ✶        ✨    
+.            *      ✦        ✧           *          .      
+</pre>
+
+<pre align="center">
+        .         *       .               .        *        .   
+   .          .                 🌿          .         .           
+                   ✨      *           ✨         .     *     .
+      *      (✶)         ( ✷ )            (✶)       *
+             *    .-''-.       .-''-.       .-''-.    .   
+              🌍  /      \     /      \     /      \   🌍
+                |  Science |   |   Code   |   |   Art    |
+              🌙 \      /     \      /     \      /   🌙
+                   '-..-'       '-..-'       '-..-'        
+   .    *      *         🌱       .        *         .     
+         *         ✨         .         🌟           .    
+</pre>
+
+
 ---
 
 ## Find me
