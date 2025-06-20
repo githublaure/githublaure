@@ -26,8 +26,9 @@ Always learning, exploring, shaping ideas into experiences
 ## Tech Stack
 
 <!-- Version SVG dynamique avec hover bleu/vert -->
-<p align="center">
- <a href="https://skillicons.dev/" src="_blank"> <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript,threejs&perline=6" alt="Tech Stack Laure"></a>
+<p align="center">![Uploading image.png…]()
+
+ <a href="https://skillicons.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript,threejs&perline=6" alt="Tech Stack Laure"></a>
 </p>
 
 ---
