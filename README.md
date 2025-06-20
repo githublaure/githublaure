@@ -30,9 +30,7 @@ Always learning, exploring, shaping ideas into experiences
 </p>
 
 <p align="center">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
-┃ ⚙️ _Tools I love to sculpt data & ideas_ ┃  
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+⚙️ &nbsp; <em>Tools I love to sculpt data & ideas</em> &nbsp; ⚙️
 </p>
 
 ---
@@ -67,9 +65,7 @@ Always learning, exploring, shaping ideas into experiences
 </table>
 
 <p align="center">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
-┃ 📜 _Recent explorations & upcoming quests_ ┃  
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+📜 &nbsp; <em>Recent explorations & upcoming quests</em> &nbsp; 📜
 </p>
 
 ---
@@ -81,9 +77,7 @@ Always learning, exploring, shaping ideas into experiences
 </p>
 
 <p align="center">
-┏━━━━━━━━━━━━━━━━━━━━━━━┓  
-┃ 📊 _GitHub Contributions — The heartbeats of a creative dev_ ┃  
-┗━━━━━━━━━━━━━━━━━━━━━━━┛  
+📊 &nbsp; <em>GitHub Contributions — The heartbeats of a creative dev</em> &nbsp; 📊
 </p>
 
 <pre align="center">
@@ -134,9 +128,7 @@ Toujours en train d’apprendre, d’explorer, de transformer les idées en exp�
 ### Outils & Technologies
 
 <p align="center">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
-┃ ⚙️ _Outils pour façonner la donnée et les idées_ ┃  
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+⚙️ &nbsp; <em>Outils pour façonner la donnée et les idées</em> &nbsp; ⚙️
 </p>
 
 ---
@@ -144,9 +136,7 @@ Toujours en train d’apprendre, d’explorer, de transformer les idées en exp�
 ### Projets récents & à venir
 
 <p align="center">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
-┃ 📜 _Explorations récentes & projets en devenir_ ┃  
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+📜 &nbsp; <em>Explorations récentes & projets en devenir</em> &nbsp; 📜
 </p>
 
 ---
