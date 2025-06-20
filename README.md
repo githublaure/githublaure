@@ -36,9 +36,26 @@ Always learning, exploring, shaping ideas into experiences
   <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript,threejs&perline=6" alt="Tech Stack Laure">
 </p>
 
-<p align="center">
-🐍 Python &nbsp; ⚡ FastAPI &nbsp; 📊 Streamlit &nbsp; 🐘 PostgreSQL &nbsp; ☁️ AWS EC2 &nbsp; ⚙️ Nginx &nbsp; 🤖 GitHub Actions &nbsp; 🐳 Docker &nbsp; ⚛️ React &nbsp; 🎨 Tailwind CSS &nbsp; 🧑‍💻 TypeScript &nbsp; 🧩 3D & AI (Three.js)
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" /><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50" /><br>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=streamlit" width="50" /><br>Streamlit</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50" /><br>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50" /><br>AWS EC2</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="50" /><br>Nginx</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50" /><br>GitHub Actions</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" /><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" /><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" /><br>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="50" /><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="50" /><br>3D & AI (Three.js)</td>
+  </tr>
+</table>
 
 
 <p align="center">
