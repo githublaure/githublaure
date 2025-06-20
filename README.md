@@ -32,12 +32,11 @@ Always learning, exploring, shaping ideas into experiences
 <em>Tools I love to sculpt data & ideas</em>
 </p>
 
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" /><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50" /><br>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev" width="50" /><br>Streamlit</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=streamlit" width="50" /><br>Streamlit</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50" /><br>PostgreSQL</td>
   </tr>
   <tr>
@@ -52,12 +51,18 @@ Always learning, exploring, shaping ideas into experiences
     <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="50" /><br>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="50" /><br>3D & AI (Three.js)</td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50" /><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=illustrator" width="50" /><br>Illustrator</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=photoshop" width="50" /><br>Photoshop</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" /><br>Git</td>
+  </tr>
 </table>
-
 
 <p align="center">
 ⚙️ &nbsp; <em>Tools I love to sculpt data & ideas</em> &nbsp; ⚙️
 </p>
+
 
 ---
 
@@ -88,11 +93,24 @@ Always learning, exploring, shaping ideas into experiences
     <td>2025</td>
     <td>Interactive UI Experiments</td>
   </tr>
+  <tr>
+    <td>2025</td>
+    <td>Generative 3D Prototypes (AI to STL)</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Pixel Art Game Design (in progress)</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Creative Coding Workshops (soon)</td>
+  </tr>
 </table>
 
 <p align="center">
 📜 &nbsp; <em>Recent explorations & upcoming quests</em> &nbsp; 📜
 </p>
+
 
 ---
 
