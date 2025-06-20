@@ -79,6 +79,15 @@ Always learning, exploring, shaping ideas into experiences
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=tokyonight)](https://github.com/githublaure)
 
+<pre align="center">
+.      *            .       .        .         *
+          .        .   .       *       . 
+    (¯`·.¸¸.·´¯)   (¯`·.¸¸.·´¯)    (¯`·.¸¸.·´¯)
+    .`·. Science .·´   .`·. Code .·´   .`·. Art .·´
+    (¯`·.¸¸.·´¯)   (¯`·.¸¸.·´¯)    (¯`·.¸¸.·´¯)
+          *      .        .      *        . 
+</pre>
+
 ---
 
 ## Find me
