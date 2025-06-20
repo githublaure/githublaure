@@ -1,28 +1,29 @@
-<h1 align="center">✨ Laure Agrech ✨</h1>
+<h1 align="center">Laure Agrech</h1>
 
 <p align="center">
-Bridging Code • Data • Design • Art  
+<img src="https://URL-DE-TA-BANNIERE" alt="Banner Laure Agrech" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=fastapi&color=009688"/>
-<img src="https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=postgresql&color=336791"/>
-<img src="https://img.shields.io/badge/Design-UI/UX-blueviolet?style=flat"/>
-<img src="https://img.shields.io/badge/Creativity-3D%20Printing-blue?style=flat"/>
+Bridging Code • Data • Design • Art
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Currently_Working_On-Creative_3D_AI_Pipeline-blue?style=flat-square&logo=github" alt="Currently Working On">
 </p>
 
 ---
 
-## 🧩 About Me
+## About Me
 
-👩‍💻 **Creative Developer** | Data & Web | Interfaces & Visualisation  
-🎨 From APIs & dashboards to gamified tools and artistic experiments  
-🧑‍🚀 I love to build playful and meaningful bridges between tech & creativity  
-🧠 Always learning, exploring, shaping ideas into experiences  
+Creative Developer | Data & Web | Interfaces & Visualisation  
+From APIs & dashboards to gamified tools and artistic experiments  
+I build playful and meaningful bridges between tech & creativity  
+Always learning, exploring, shaping ideas into experiences  
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -43,36 +44,54 @@ Bridging Code • Data • Design • Art
 
 ---
 
-## 📚 Projects & Interests
+## Projects Timeline
 
-- 🎮 **Gamified Task Management** — UX / Design Thinking
-- 📊 **Creative Data Visualisation**
-- 🛠️ **APIs & Dashboards for Credit Scoring**
-- 🧑‍🎨 **AI-to-3D Printing Pipelines**
-- 🖼️ **Pixel Art & Interfaces**
-- 🎭 **Interactive UI Experiments**  
-- 💬 Exploring **AI & Art** intersections
+<table>
+  <tr>
+    <td>2024</td>
+    <td>Gamified Task Management</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>Credit Scoring API & Dashboard</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>AI-to-3D Printing Workflow</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Creative Data Visualisation</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Pixel Art & Interfaces (Side project)</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Interactive UI Experiments</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=tokyonight)](https://github.com/TON-USERNAME)
-
----
-
-## 🌐 Find me
-
-- 🖥️ [Portfolio](https://laureagrech-dev.replit.app/)  
-- 🎮 Side quests: Art • Code • 3D • Play  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=tokyonight)](https://github.com/githublaure)
 
 ---
 
-## 🧠 Philosophy
+## Find me
+
+[Portfolio](https://laureagrech-dev.replit.app/)  
+Side quests: Art • Code • 3D • Play  
+
+---
+
+## Philosophy
 
 *"Mathématiques, code, art : trois langages pour explorer le réel.  
 Trois façons de révéler des structures cachées, de donner forme à la complexité.  
 Dans chaque ligne de code, chaque équation, chaque trait — la même quête profonde : comprendre le monde, et y inscrire du sens."*
 
 ---
-
