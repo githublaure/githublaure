@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-[![Laure's GitHub stats](https://github-readme-stats.vercel.app/api?username=laureagrech&show_icons=true&theme=radical)](https://github.com/laureagrech)
+[![Laure's GitHub stats](https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=radical)](https://github.com/githublaure)
 
 ---
 
