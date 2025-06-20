@@ -79,49 +79,15 @@ Always learning, exploring, shaping ideas into experiences
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=tokyonight)](https://github.com/githublaure)
 
-<pre align="center">
-.      *            .       .        .         *
-          .        .   .       *       . 
-    (¯`·.¸¸.·´¯)   (¯`·.¸¸.·´¯)    (¯`·.¸¸.·´¯)
-    .`·. Science .·´   .`·. Code .·´   .`·. Art .·´
-    (¯`·.¸¸.·´¯)   (¯`·.¸¸.·´¯)    (¯`·.¸¸.·´¯)
-          *      .        .      *        . 
-</pre>
 
 <pre align="center">
-      .        *         .      .         *        .    
-               .     🌿        *    .    ✨     .        
-           .         ___    ___    ___        .    
-                🪐  ( o )  ( o )  ( o )  🪐          
-                    / | \  / | \  / | \            
-                  /__|__\/__|__\/__|__\          
-              Science    Code     Art            
-      *        .        🌱        .      *       
-               ✦          .        ✨         
-</pre>
+        ✶   ✦    🪐     *     🪐   ✨    ✧    .   *     ✶
 
-<pre align="center">
-                *          .         ✨          .          
-    ✶    ✧         .      ( o )      .       ✦        ✨   
-             .        *    / | \    *      .      ✨        
-    .       .      *     * /___\ *       .    ✶      .     
-          (      Science   •   Code   •   Art     )         
-    ✧          *         ✨         *        ✶        ✨    
-.            *      ✦        ✧           *          .      
-</pre>
+    ○───────○───────○───────○───────○───────○
+           Science         Code          Art
+    ○───────○───────○───────○───────○───────○
 
-<pre align="center">
-        .         *       .               .        *        .   
-   .          .                 🌿          .         .           
-                   ✨      *           ✨         .     *     .
-      *      (✶)         ( ✷ )            (✶)       *
-             *    .-''-.       .-''-.       .-''-.    .   
-              🌍  /      \     /      \     /      \   🌍
-                |  Science |   |   Code   |   |   Art    |
-              🌙 \      /     \      /     \      /   🌙
-                   '-..-'       '-..-'       '-..-'        
-   .    *      *         🌱       .        *         .     
-         *         ✨         .         🌟           .    
+        ✶   ✦    🪐    *   ✨    .      ✧    🪐    *    ✶
 </pre>
 
 
