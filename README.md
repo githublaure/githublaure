@@ -1,7 +1,7 @@
 <h1 align="center">Laure Agrech</h1>
 
 <p align="center">
-<img src="https://laureagrech-dev.replit.app/pppixel.png" width="200px" alt="Banner Laure Agrech" />
+<img src="https://laureagrech-dev.replit.app/pppixel.png" width="200px" alt="Avatar Laure Agrech" />
 </p>
 
 <p align="center">
@@ -25,8 +25,9 @@ Always learning, exploring, shaping ideas into experiences
 
 ## Tech Stack
 
+<!-- Version SVG dynamique avec hover bleu/vert -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript" alt="Stack Laure" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript,threejs&perline=6" alt="Tech Stack Laure">
 </p>
 
 ---
@@ -64,18 +65,32 @@ Always learning, exploring, shaping ideas into experiences
 
 ## GitHub Stats
 
+<!-- Variante 1 — bleu/vert clair -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=calm&bg_color=30,0ea5e9,009688&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats Laure" />
+<img src="https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=calm&bg_color=30,0ea5e9,009688&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats">
 </p>
 
+<!-- Variante 2 — sombre pastel (décommenter pour tester)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=calm&bg_color=30,041A2F,0B3C49&title_color=8EF0F0&text_color=E0F7F7&icon_color=8EF0F0" alt="GitHub Stats">
+</p>
+-->
+
+<!-- Variante 3 — vert scientifique (décommenter pour tester)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=calm&bg_color=30,009688,0ea5e9&title_color=E0F7F7&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats">
+</p>
+-->
+
+<!-- ASCII clean Science - Code - Art -->
 <pre align="center">
-        ✶   ✦    🪐     *     🪐   ✨    ✧    .   *     ✶
+✦     ✶      🪐      *    🪐     ✨    ✧      *     ✶     ✦
 
-    ○───────○───────○───────○───────○───────○
-       Science         Code          Art
-    ○───────○───────○───────○───────○───────○
+○───────○───────○───────○───────○───────○
+    Science         Code          Art
+○───────○───────○───────○───────○───────○
 
-        ✶   ✦    🪐    *   ✨    .      ✧    🪐    *    ✶
+✦     ✶      🪐      *    🪐     ✨    ✧      *     ✶     ✦
 </pre>
 
 ---
