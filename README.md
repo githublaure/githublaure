@@ -23,11 +23,23 @@ Always learning, exploring, shaping ideas into experiences
 
 ---
 
+
+
 ## Tech Stack
+
+<p align="center">
+<b>⚙️ Tech Stack Laure ⚙️</b>  
+<em>Tools I love to sculpt data & ideas</em>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript,threejs&perline=6" alt="Tech Stack Laure">
 </p>
+
+<p align="center">
+🐍 Python &nbsp; ⚡ FastAPI &nbsp; 📊 Streamlit &nbsp; 🐘 PostgreSQL &nbsp; ☁️ AWS EC2 &nbsp; ⚙️ Nginx &nbsp; 🤖 GitHub Actions &nbsp; 🐳 Docker &nbsp; ⚛️ React &nbsp; 🎨 Tailwind CSS &nbsp; 🧑‍💻 TypeScript &nbsp; 🧩 3D & AI (Three.js)
+</p>
+
 
 <p align="center">
 ⚙️ &nbsp; <em>Tools I love to sculpt data & ideas</em> &nbsp; ⚙️
@@ -112,11 +124,11 @@ Made with ☕, 🌿 and curiosity — exploring where code meets creativity ✨
 
 ---
 
-## 🇫🇷 
+### À propos de moi 🇫🇷 
 
 ---
 
-### À propos de moi
+
 
 Développeuse créative | Data & Web | Interfaces & Visualisation  
 Des APIs aux dashboards, des outils gamifiés aux expériences artistiques  
