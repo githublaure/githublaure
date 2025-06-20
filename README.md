@@ -25,10 +25,14 @@ Always learning, exploring, shaping ideas into experiences
 
 ## Tech Stack
 
-<!-- Version SVG dynamique avec hover bleu/vert -->
-<p align="center">![Uploading image.png…]()
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript,threejs&perline=6" alt="Tech Stack Laure">
+</p>
 
- <a href="https://skillicons.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript,threejs&perline=6" alt="Tech Stack Laure"></a>
+<p align="center">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
+┃ ⚙️ _Tools I love to sculpt data & ideas_ ┃  
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
 </p>
 
 ---
@@ -62,28 +66,26 @@ Always learning, exploring, shaping ideas into experiences
   </tr>
 </table>
 
+<p align="center">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
+┃ 📜 _Recent explorations & upcoming quests_ ┃  
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+</p>
+
 ---
 
 ## GitHub Stats
 
-<!-- Variante 1 — bleu/vert clair -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=calm&bg_color=30,0ea5e9,009688&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats">
 </p>
 
-<!-- Variante 2 — sombre pastel (décommenter pour tester)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=calm&bg_color=30,041A2F,0B3C49&title_color=8EF0F0&text_color=E0F7F7&icon_color=8EF0F0" alt="GitHub Stats">
+┏━━━━━━━━━━━━━━━━━━━━━━━┓  
+┃ 📊 _GitHub Contributions — The heartbeats of a creative dev_ ┃  
+┗━━━━━━━━━━━━━━━━━━━━━━━┛  
 </p>
--->
 
-<!-- Variante 3 — vert scientifique (décommenter pour tester)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=calm&bg_color=30,009688,0ea5e9&title_color=E0F7F7&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats">
-</p>
--->
-
-<!-- ASCII clean Science - Code - Art -->
 <pre align="center">
 ✦     ✶      🪐      *    🪐     ✨    ✧      *     ✶     ✦
 
@@ -105,8 +107,58 @@ Side quests: Art • Code • 3D • Play
 
 ## Philosophy
 
+*"Mathematics, code, art — three languages to explore the real world.  
+Three ways to reveal hidden structures, to give form to complexity.  
+In every line of code, every equation, every stroke — the same deep quest:  
+to understand the world, and to inscribe meaning into it."*
+
+<p align="center">
+Made with ☕, 🌿 and curiosity — exploring where code meets creativity ✨
+</p>
+
+---
+
+## 🇫🇷 En Français
+
+---
+
+### À propos de moi
+
+Développeuse créative | Data & Web | Interfaces & Visualisation  
+Des APIs aux dashboards, des outils gamifiés aux expériences artistiques  
+J’aime construire des ponts ludiques et porteurs de sens entre technologie et créativité  
+Toujours en train d’apprendre, d’explorer, de transformer les idées en expériences  
+
+---
+
+### Outils & Technologies
+
+<p align="center">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
+┃ ⚙️ _Outils pour façonner la donnée et les idées_ ┃  
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+</p>
+
+---
+
+### Projets récents & à venir
+
+<p align="center">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
+┃ 📜 _Explorations récentes & projets en devenir_ ┃  
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+</p>
+
+---
+
+### Philosophie
+
 *"Mathématiques, code, art : trois langages pour explorer le réel.  
 Trois façons de révéler des structures cachées, de donner forme à la complexité.  
 Dans chaque ligne de code, chaque équation, chaque trait — la même quête profonde : comprendre le monde, et y inscrire du sens."*
+
+<p align="center">
+Conçu avec ☕, 🌿 et curiosité — explorer où le code rencontre la créativité ✨
+</p>
 
 ---
