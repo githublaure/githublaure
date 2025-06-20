@@ -37,7 +37,7 @@ Always learning, exploring, shaping ideas into experiences
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" /><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50" /><br>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=streamlit" width="50" /><br>Streamlit</td>
+    <td align="center"><img src="https://skillicons.dev" width="50" /><br>Streamlit</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50" /><br>PostgreSQL</td>
   </tr>
   <tr>
