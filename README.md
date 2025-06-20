@@ -1,7 +1,7 @@
 <h1 align="center">Laure Agrech</h1>
 
 <p align="center">
-<img src="https://laureagrech-dev.replit.app/pppixel.png" alt="Banner Laure Agrech" />
+<img src="https://laureagrech-dev.replit.app/pppixel.png" width="200px" alt="Banner Laure Agrech" />
 </p>
 
 <p align="center">
