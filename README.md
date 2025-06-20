@@ -32,9 +32,6 @@ Always learning, exploring, shaping ideas into experiences
 <em>Tools I love to sculpt data & ideas</em>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript,threejs&perline=6" alt="Tech Stack Laure">
-</p>
 
 <table align="center">
   <tr>
