@@ -112,7 +112,7 @@ Made with ☕, 🌿 and curiosity — exploring where code meets creativity ✨
 
 ---
 
-## 🇫🇷 En Français
+## 🇫🇷 
 
 ---
 
