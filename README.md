@@ -1,3 +1,72 @@
+<h1 align="center">✨ Laure Agrech ✨</h1>
+
+<p align="center">
+Data ✦ Web ✦ UI ✦ Art ✦ 3D ✦ Games  
+Bridging Code & Creativity  
+</p>
+
+---
+
+## 🧙‍♀️ Who am I?
+
+- 🧩 **Creative Developer** with a Data Science mindset  
+- 🛠️ I build APIs, dashboards, tools & playful apps  
+- 🎨 Explorer of interfaces, pixel art, gamified UX  
+- 🧑‍🚀 Currently working on creative 3D pipelines & interactive data viz  
+- 🌍 Remote-first / Global thinker  
+
+---
+
+## 🚀 Stack & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![3D & IA](https://img.shields.io/badge/3D_&_AI-ff69b4?style=for-the-badge)
+
+</div>
+
+---
+
+## 📚 Side Projects
+
+- 🎮 **Gamified Task Management**  
+- 🖼️ **Creative Data Viz**  
+- 🛠️ **API & Dashboard for Credit Scoring**  
+- 🧑‍🎨 **AI-to-3D Printing Workflow**  
+- 📚 **Educational Game about Python**  
+- 🎭 **Interactive UI experiments**
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight)](https://github.com/TON-USERNAME)
+
+---
+
+## 🌐 Find me
+
+- ✨ [Portfolio](https://laureagrech-dev.replit.app/)  
+- 🕹️ Side quests: Code • Art • AI • Play
+
+---
+
+*"There is no line between code and art — only bridges to build."*
+
+
+
+
 <h1 align="center">👩‍💻 Laure Agrech | Data & Creative Developer 🚀</h1>
 
 <p align="center">
