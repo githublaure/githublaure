@@ -25,28 +25,15 @@ Always learning, exploring, shaping ideas into experiences
 
 ## Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-00A08B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![3D & AI](https://img.shields.io/badge/AI_%26_3D-0ea5e9?style=for-the-badge&logo=three.js&logoColor=white)
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,postgresql,aws,nginx,githubactions,docker,react,tailwind,typescript" alt="Stack Laure" />
+</p>
 
 ---
 
 ## Projects Timeline
 
-<table>
+<table align="center">
   <tr>
     <td>2024</td>
     <td>Gamified Task Management</td>
@@ -77,8 +64,9 @@ Always learning, exploring, shaping ideas into experiences
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=tokyonight)](https://github.com/githublaure)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=githublaure&show_icons=true&theme=calm&bg_color=30,0ea5e9,009688&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats Laure" />
+</p>
 
 <pre align="center">
         ✶   ✦    🪐     *     🪐   ✨    ✧    .   *     ✶
@@ -89,7 +77,6 @@ Always learning, exploring, shaping ideas into experiences
 
         ✶   ✦    🪐    *   ✨    .      ✧    🪐    *    ✶
 </pre>
-
 
 ---
 
