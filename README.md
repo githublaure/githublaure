@@ -164,7 +164,7 @@ In every line of code, every equation, every stroke — the same deep quest:
 to understand the world, and to inscribe meaning into it."*
 
 <p align="center">
-Made with ☕, 🌿 and curiosity — exploring where code meets creativity ✨
+© deep insight by chatGPT 🤖☕🤭
 </p>
 
 ---
@@ -215,7 +215,7 @@ Trois façons de révéler des structures cachées, de donner forme à la comple
 Dans chaque ligne de code, chaque équation, chaque trait — la même quête profonde : comprendre le monde, et y inscrire du sens."*
 
 <p align="center">
-Conçu avec ☕, 🌿 et curiosité — explorer où le code rencontre la créativité ✨
+© approuvé par le clone d'Edouard Baer 🤖☕🤭
 </p>
 
 ---
