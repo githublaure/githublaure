@@ -113,11 +113,11 @@ Always learning, exploring, shaping ideas into experiences
   </tr>
   <tr>
     <td>2025</td>
-    <td>Pixel Art Game Design (in progress)</td>
+    <td>Pixel Art Game Design</td>
   </tr>
   <tr>
     <td>2025</td>
-    <td>Creative Coding Workshops (soon)</td>
+    <td>Creative Coding Workshops</td>
   </tr>
 </table>
 
