@@ -119,6 +119,10 @@ Always learning, exploring, shaping ideas into experiences
     <td>2025</td>
     <td>Creative Coding Workshops</td>
   </tr>
+    <tr>
+    <td>2026</td>
+    <td>Agentic content creation</td>
+  </tr>
 </table>
 
 <p align="center">
